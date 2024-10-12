@@ -1,1 +1,1 @@
-const pruect
+const prue
